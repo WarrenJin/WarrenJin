@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WarrenJin
 - 👀 I’m interested in machine learning and statistical computation
-- 🌱 I’m currently developing techniques for high-resolution skilful climate forecast 
+- 🌱 I’m currently developing techniques for high-resolution skilful climate forecasts, especially precipitatoin 
 - 📫 How to reach me warren.jin@csiro.au
 
 <!---
