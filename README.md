@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WarrenJin
-- 👀 I’m interested in statistical modelling and computation
-- 🌱 I’m currently developing techniques for climate forecast downscaling 
+- 👀 I’m interested in machine learning and statistical computation
+- 🌱 I’m currently developing techniques for high-resolution skilful climate forecast 
 - 📫 How to reach me warren.jin@csiro.au
 
 <!---
